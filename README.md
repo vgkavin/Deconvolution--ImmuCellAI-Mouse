@@ -18,7 +18,23 @@ Required R packages:
 
 `dplyr`, `GSVA`, `ImmuCellAI-mouse`, `ggplot2`, `tidyr`, `pracma`, `cowplot`
 
- 
+**Step by step of Execution**
+
+ 1.Clone the repository:
+
+`git clone https://github.com/your-username/repository-name.git`
+
+2. Prepare the Data:
+  
+Load your bulk RNA-seq counts data into the required format (tab delimited .txt) for ImmuCellAI-mouse.
+
+3. Run the Script:
+
+Make necessary modifications to the script. Example- Group/individual, etc. Execute the ImmuCellAI-mouse.R script
+
+4. Visualize the Results:
+
+The script generates immune cell abundance visualizations. You can customize the visualization section according to your needs.
 
 
 # Citation 
