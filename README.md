@@ -36,7 +36,21 @@ Make necessary modifications to the script. Example- Group/individual, etc. Exec
 
 The script generates immune cell abundance visualizations. You can customize the visualization section according to your needs.
 
- ***Sample Vizualization***
+**Notes**
+
+Ensure your input data is formatted correctly for ImmuCellAI-mouse to run properly.
+
+Adjust any visualization parameters in the script to match your specific requirements.
+
+**License**
+
+This project is licensed under the MIT License.
+
+**Contributing**
+
+If you find any issues or have suggestions for improvement, feel free to open a pull request or submit issues.
+
+ # Sample Vizualization
 
 ![Sample Plot](Plots/Sample_plot.png)
 
