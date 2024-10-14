@@ -4,11 +4,11 @@ This repository contains an R script that executes the ImmuCellAI-mouse tool for
 
 **Features**
 
-Executes ImmuCellAI-mouse to perform immune cell deconvolution.
+-Executes ImmuCellAI-mouse to perform immune cell deconvolution.
 
-Customizable visualization of the output.
+-Customizable visualization of the output.
 
-Easy-to-modify for different datasets.
+-Easy-to-modify for different datasets.
 
 **Prerequisites**
 
