@@ -20,7 +20,7 @@ Required R packages:
 
 **Step by step of Execution**
 
- 1.Clone the repository:
+ 1. Clone the repository:
 
 `git clone https://github.com/your-username/repository-name.git`
 
