@@ -36,7 +36,7 @@ Make necessary modifications to the script. Example- Group/individual, etc. Exec
 
 The script generates immune cell abundance visualizations. You can customize the visualization section according to your needs.
 
-# Sample Vizualization
+ ***Sample Vizualization***
 
 ![Sample Plot](Plots/Sample_plot.png)
 
