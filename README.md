@@ -10,7 +10,15 @@ Customizable visualization of the output.
 
 Easy-to-modify for different datasets.
 
+**Prerequisites**
 
+R version 4.0 or higher
+
+Required R packages:
+
+`dplyr`, `GSVA`, `ImmuCellAI-mouse`, `ggplot2`, `tidyr`, `pracma`, `cowplot`
+
+ 
 
 
 # Citation 
