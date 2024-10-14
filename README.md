@@ -38,7 +38,7 @@ The script generates immune cell abundance visualizations. You can customize the
 
 # Sample Vizualization
 
-![Sample Plot](Image/sample_plot.png)
+![Sample Plot](Image/Sample_plot.png)
 
 
 # Citation 
